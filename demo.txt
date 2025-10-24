@@ -1,6 +1,4 @@
-Initial commit
-<<<<<<< HEAD
-=======
+Initial commit 
 Feature A - change 1
 Feature A - change 2
->>>>>>> 08dde21 (FeatureA: Commit 2)
+Feature A - change 3
