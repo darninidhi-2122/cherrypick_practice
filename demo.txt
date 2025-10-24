@@ -1,2 +1,3 @@
 Initial commit
 Feature A - change 1
+Feature A - change 2
